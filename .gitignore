@@ -1,0 +1,21 @@
+# PlatformIO / firmware build artifacts
+firmware/.pio/
+firmware/.vscode/
+*.o
+*.elf
+*.bin
+
+# Local secrets — never commit real credentials
+firmware/include/config.h
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Fusion 360 local caches (not the exported model files we intentionally track)
+*.f3d.lock
+~$*
+
+# Large raw originals kept outside the repo
+/originals/
