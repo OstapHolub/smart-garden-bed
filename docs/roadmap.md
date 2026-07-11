@@ -8,7 +8,8 @@ validated.
 - ✅ Fusion 360 model of the wooden base.
 - ✅ Wooden base built, sanded, finished with two coats of oil, and
   assembled in place on the terrace.
-- 🚧 Removable planter box: bottom panel, sanding, finish coats.
+- ✅ Removable planter box parts measured, cut, and sanded.
+- 🚧 Removable planter box: bottom panel, oil finish coats, assembly.
 - 🚧 Geotextile liner installation.
 - 🚧 Planning cable conduit routing for sensors.
 - 📋 Add Fusion 360 source file, STEP export, and renders to this

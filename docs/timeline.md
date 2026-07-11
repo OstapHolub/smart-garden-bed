@@ -73,8 +73,17 @@ weren't logged during the build.
   [`photos/final/d07-final-result-3.jpg`](photos/final/d07-final-result-3.jpg),
   [`photos/final/d07-final-result-4.jpg`](photos/final/d07-final-result-4.jpg).
 
+## Day 8 — Planter box: measuring, cutting, sanding
+
+- Measured and cut a board into parts for the removable planter box.
+- Sanded all parts through three grits.
+- Result: all box parts ready for oiling and assembly.
+- Photos: [`photos/woodworking/d08-garden-box-parts.jpg`](photos/woodworking/d08-garden-box-parts.jpg),
+  [`photos/woodworking/d08-sanding-result.jpg`](photos/woodworking/d08-sanding-result.jpg).
+
 ## What's not logged yet
 
-The planter box build (in progress) and all electronics/firmware work
-(not started) aren't in this timeline yet — they'll be added as dated (or
-day-numbered) entries once that work happens.
+The rest of the planter box build (in progress) and all
+electronics/firmware work (not started) aren't in this timeline yet —
+they'll be added as dated (or day-numbered) entries once that work
+happens.

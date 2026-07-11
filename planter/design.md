@@ -7,8 +7,10 @@ that's part of the already-finished wooden base. As of this writing:
 
 - 🚧 Box construction is underway.
 - 🚧 The box bottom is being built.
-- 🚧 Sanding of box parts is underway.
-- 🚧 Two coats of protective finish are planned for the box, matching the
+- ✅ All box parts measured, cut, and sanded through three grits — ready
+  for oiling and assembly (see
+  [`../docs/timeline.md`](../docs/timeline.md), Day 8).
+- 📋 Two coats of protective finish are planned for the box, matching the
   base's process.
 - 🚧 Geotextile liner installation is planned.
 - 📋 Sensor conduit routing is being planned but not yet built — see
