@@ -15,7 +15,8 @@ validated.
 - ✅ Add Fusion 360 source file and a render to this repository
   (`mechanical/fusion360/`).
 - 📋 Add a neutral STEP export.
-- 📋 Reconcile CAD model with the base's actual measured dimensions.
+- ✅ Reconcile CAD model with the base's actual measured dimensions —
+  matches to within about 5 mm.
 
 ## Electronics
 

@@ -41,12 +41,10 @@ for comparison.
 
 ## Known differences between CAD and the built base
 
-Not yet verified in detail. The base was built from an earlier version of
-this design, but the finished, assembled base's exact measured dimensions
-have not been checked against this specific exported model — see
-[`../cut-list.md`](../cut-list.md). Until that check happens, treat the
-model as representative of the design intent, not as a guaranteed exact
-match to the physical base.
+The finished, assembled base has been checked against this model and
+matches it to within about 5 mm across the measured dimensions. Individual
+part lengths have not been itemized in this repository yet — see
+[`../cut-list.md`](../cut-list.md).
 
 ## Format note
 

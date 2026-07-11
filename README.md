@@ -115,9 +115,9 @@ Design and build notes:
 ![Fusion 360 render of the base](docs/photos/design/garden-base-render.jpg)
 
 The Fusion 360 source (`.f3z`) and a render are now in this repository —
-see [`mechanical/fusion360/README.md`](mechanical/fusion360/README.md). A
-neutral STEP export isn't included yet, and the model hasn't been
-reconciled against the finished base's real, measured dimensions.
+see [`mechanical/fusion360/README.md`](mechanical/fusion360/README.md).
+The built base has been checked against the model and matches it to
+within about 5 mm. A neutral STEP export isn't included yet.
 
 Target dimensions at project start were roughly 1000 × 500 mm; see
 [`mechanical/cut-list.md`](mechanical/cut-list.md) for why this is

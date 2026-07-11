@@ -2,11 +2,11 @@
 
 ## Status
 
-No verified, final cut list exists yet. The base has already been built,
+No itemized, final cut list exists yet. The base has already been built,
 and the Fusion 360 source is now in the repository
-([`fusion360/README.md`](fusion360/README.md)), but exact part lengths
-haven't been pulled from the model yet, and the built base's as-built
-measurements haven't been captured back into this repository either.
+([`fusion360/README.md`](fusion360/README.md)); the built base has been
+checked against the model and matches it to within about 5 mm. Individual
+part lengths still haven't been pulled from the model or recorded here.
 
 **Do not treat the numbers below as a bill of exact part dimensions.**
 They are the target footprint the project started from, plus the one
@@ -40,5 +40,4 @@ require opening the model or measuring the built base.
 ## TODO
 
 - Open the Fusion 360 model and record each part's actual length here.
-- Measure the finished, assembled base and reconcile against the model.
 - Add a cut list for the planter box once its design is finalized.
