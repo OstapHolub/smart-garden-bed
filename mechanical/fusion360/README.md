@@ -2,39 +2,62 @@
 
 ## Status
 
-**No Fusion 360 file is in this repository yet.** The base was designed in
-Fusion 360 before being built, but the source file has not been added
-here — it will be added in a later commit, along with a STEP export and
-renders.
+The Fusion 360 source is now in this repository: [`garden-base.f3z`](garden-base.f3z),
+exported 2026-07-11. A render is available at
+[`../../docs/photos/design/garden-base-render.jpg`](../../docs/photos/design/garden-base-render.jpg).
 
-Do not assume the files referenced below exist until this note is
-updated.
+Not yet included: a neutral STEP export or dimensioned PDF drawings — see
+[`../exports/`](../exports/).
 
-## What the model covers (as designed)
+## What the model covers
 
-The Fusion 360 model covers the permanent wooden base: four legs, the top
-load-bearing frame, the center crossbeam, and the lower shelf. It does not
-yet cover the removable planter box, which is being sized against the
-base's actual built dimensions rather than modeled first.
+This is a Fusion 360 assembly ("Garden Base") covering the permanent
+wooden base: four legs, the top load-bearing frame with front/back and
+side rails, and the lower slat shelf. It does not cover the removable
+planter box, which is being sized against the base's actual built
+dimensions rather than modeled first — see
+[`../../planter/design.md`](../../planter/design.md).
+
+## Components in the assembly
+
+Based on the part names inside the `.f3z` archive:
+
+| Part | Cross-section |
+|---|---|
+| Leg 50x50 | 50 × 50 mm |
+| Long Rail 50X50 | 50 × 50 mm |
+| Short Rail Bottom 50x50 | 50 × 50 mm |
+| Short Rail Top 50x50 | 50 × 50 mm |
+
+All structural members use a 50 × 50 mm nominal cross-section. Exact
+lengths haven't been pulled from the model yet — that requires opening it
+in Fusion 360 to read the driving sketch dimensions, not just inspecting
+the archive contents. See [`../cut-list.md`](../cut-list.md).
+
+The render shows the top frame, a center crossbeam, and a slatted lower
+shelf, which matches the general shape of the built base — see
+[`../../docs/photos/final/d07-final-result-1.jpg`](../../docs/photos/final/d07-final-result-1.jpg)
+for comparison.
 
 ## Known differences between CAD and the built base
 
-Not yet fully documented. The base was built from this model, but exact
-measured dimensions of the finished, assembled base have not been
-reconciled against the CAD file in this repository yet — see
-[`../cut-list.md`](../cut-list.md). Once that reconciliation happens, any
-differences will be listed here explicitly instead of assuming the model
-and the physical base match.
+Not yet verified in detail. The base was built from an earlier version of
+this design, but the finished, assembled base's exact measured dimensions
+have not been checked against this specific exported model — see
+[`../cut-list.md`](../cut-list.md). Until that check happens, treat the
+model as representative of the design intent, not as a guaranteed exact
+match to the physical base.
 
-## Planned contents of this directory
+## Format note
 
-- `smart-garden-base.f3d` — source Fusion 360 file (pending: license/size
-  check before committing).
-- `exports/` — neutral STEP export, for use in this repo see
-  [`../exports/step/`](../exports/step/).
-- Renders/screenshots — planned for `docs/photos/design/`.
+`.f3z` is Fusion 360's own archive format (a zip containing the assembly
+and its referenced component files); it requires Fusion 360 (or a
+compatible viewer) to open. A neutral STEP export for tools that don't
+support `.f3z` is planned but not yet added.
 
 ## What to change if you're editing the model
 
-Not yet documented — will be filled in once the model is added and its
-parametric structure (which dimensions drive which parts) is reviewed.
+Not yet documented in detail — the four components above all share the
+50 × 50 mm rail/leg cross-section, so changing that dimension likely means
+updating each part individually rather than a single shared parameter.
+This hasn't been confirmed by opening the model.

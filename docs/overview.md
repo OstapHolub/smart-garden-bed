@@ -53,9 +53,10 @@ automatic irrigation
 
 Photos from the base build are in [`photos/woodworking`](photos)
 and [`photos/assembly`](photos), organized in the same order as the
-[timeline](timeline.md). Fusion 360 renders will be added to
-[`photos/design`](photos) once the model file itself is added to the
-repository — see [`../mechanical/fusion360/README.md`](../mechanical/fusion360/README.md).
+[timeline](timeline.md). A Fusion 360 render is in
+[`photos/design`](photos) — see
+[`../mechanical/fusion360/README.md`](../mechanical/fusion360/README.md)
+for the CAD source itself.
 
 ## Where things live
 

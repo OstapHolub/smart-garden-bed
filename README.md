@@ -50,7 +50,7 @@ that — the mechanical design has to plan for it.
 | Area | Status |
 |---|---|
 | Wooden base (mechanical) | ✅ Completed |
-| Fusion 360 model of the base | ✅ Completed (file to be added to this repo) |
+| Fusion 360 model of the base | ✅ Completed and added to this repo |
 | Removable planter box | 🚧 In progress |
 | Drainage / geotextile liner | 🚧 In progress |
 | Sensor conduits in the box | 🚧 Planning |
@@ -112,11 +112,12 @@ Design and build notes:
   this labeling turned out to be one of the more useful decisions in the
   build; see [`docs/lessons-learned.md`](docs/lessons-learned.md).
 
-Full CAD documentation lives in
-[`mechanical/fusion360/README.md`](mechanical/fusion360/README.md). As of
-this writing, the Fusion 360 source file is not yet in this repository —
-it will be added, along with STEP exports and renders, once it's been
-brought back in sync with the finished base's real, measured dimensions.
+![Fusion 360 render of the base](docs/photos/design/garden-base-render.jpg)
+
+The Fusion 360 source (`.f3z`) and a render are now in this repository —
+see [`mechanical/fusion360/README.md`](mechanical/fusion360/README.md). A
+neutral STEP export isn't included yet, and the model hasn't been
+reconciled against the finished base's real, measured dimensions.
 
 Target dimensions at project start were roughly 1000 × 500 mm; see
 [`mechanical/cut-list.md`](mechanical/cut-list.md) for why this is

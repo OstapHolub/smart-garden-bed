@@ -2,7 +2,11 @@
 
 ## Base (built)
 
-- **Wood**: pine lumber (specific grade/supplier not recorded).
+- **Wood**: pine lumber (specific grade/supplier not recorded). The
+  Fusion 360 model specifies a 50 × 50 mm nominal cross-section for the
+  legs and all rails — see [`fusion360/README.md`](fusion360/README.md).
+  Whether the built base's lumber matches this exactly hasn't been
+  re-measured and confirmed.
 - **Finish**: two coats of a "rosewood" (palisander) colored oil finish,
   applied after sanding through multiple grits.
 - **Fasteners**: mostly driven from the inside or underneath to stay

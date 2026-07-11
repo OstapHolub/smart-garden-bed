@@ -12,8 +12,9 @@ validated.
 - 🚧 Removable planter box: bottom panel, oil finish coats, assembly.
 - 🚧 Geotextile liner installation.
 - 🚧 Planning cable conduit routing for sensors.
-- 📋 Add Fusion 360 source file, STEP export, and renders to this
-  repository (`mechanical/fusion360/`).
+- ✅ Add Fusion 360 source file and a render to this repository
+  (`mechanical/fusion360/`).
+- 📋 Add a neutral STEP export.
 - 📋 Reconcile CAD model with the base's actual measured dimensions.
 
 ## Electronics
