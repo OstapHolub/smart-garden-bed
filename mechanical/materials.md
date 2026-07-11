@@ -7,6 +7,8 @@
   legs and all rails — see [`fusion360/README.md`](fusion360/README.md).
   Whether the built base's lumber matches this exactly hasn't been
   re-measured and confirmed.
+- **Lower shelf and planter mounting frame boards**: pine, 125 mm wide ×
+  20 mm thick.
 - **Finish**: two coats of a "rosewood" (palisander) colored oil finish,
   applied after sanding through multiple grits.
 - **Fasteners**: mostly driven from the inside or underneath to stay

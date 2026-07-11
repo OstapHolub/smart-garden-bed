@@ -28,11 +28,14 @@ measured cut list.
 | Short Rail Bottom 50x50 | 50 × 50 mm | Not yet recorded |
 | Short Rail Top 50x50 | 50 × 50 mm | Not yet recorded |
 | Center crossbeam | Not yet recorded | Not yet recorded |
-| Lower shelf slats | Not yet recorded | Count not yet recorded |
+| Lower shelf slats | Pine, 125 × 20 mm | Count and length not yet recorded |
+| Planter box mounting frame | Pine, 125 × 20 mm | Not yet recorded |
 
-Cross-sections above come directly from the part names in the Fusion 360
-assembly ([`fusion360/README.md`](fusion360/README.md)). Lengths require
-opening the model in Fusion 360 to read the driving sketch dimensions.
+Cross-sections for the legs and rails come directly from the part names
+in the Fusion 360 assembly ([`fusion360/README.md`](fusion360/README.md)).
+The 125 × 20 mm pine board size for the shelf and mounting frame is
+confirmed directly, not from the model. Lengths and slat counts still
+require opening the model or measuring the built base.
 
 ## TODO
 
