@@ -35,6 +35,21 @@ Sanding through multiple grits and applying two coats of oil (with drying
 time between coats) took up a disproportionate share of total build time
 compared to cutting and assembling the frame itself.
 
+## Measuring mistakes happen even when you plan for them
+
+The base's mounting frame measures 100 × 50 cm, and the planter box was
+designed at 99 × 49 cm specifically to fit inside it with clearance. A
+measuring or assembly error during the box build still resulted in a box
+measuring 99 × 53 cm — 4 cm too wide on the 50 cm dimension. At the time,
+the assembled box looked finished (see the "final" photos in
+[`timeline.md`](timeline.md), Day 10) — the mistake only surfaced once it
+was test-fitted against the mounting frame and confirmed not to fit. The
+affected panels have since been trimmed and the cut edges oiled, but the
+box hasn't been reassembled or re-fitted yet. Planning around a target
+dimension doesn't prevent execution mistakes — it's still worth a dry
+fit-check before assuming an assembled part matches the plan, not just
+before finishing it.
+
 ## Design for service, not just for the first assembly
 
 The removable-box concept and the planned spare cable conduit both exist

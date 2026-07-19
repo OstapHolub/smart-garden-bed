@@ -81,9 +81,47 @@ weren't logged during the build.
 - Photos: [`photos/woodworking/d08-garden-box-parts.jpg`](photos/woodworking/d08-garden-box-parts.jpg),
   [`photos/woodworking/d08-sanding-result.jpg`](photos/woodworking/d08-sanding-result.jpg).
 
+## Day 9 — Planter box: first oil coat
+
+- Applied the first oil coat to the planter box parts.
+- Photos: [`photos/woodworking/d09-planter-box-first-oil-coat-1.jpg`](photos/woodworking/d09-planter-box-first-oil-coat-1.jpg),
+  [`photos/woodworking/d09-planter-box-first-oil-coat-2.jpg`](photos/woodworking/d09-planter-box-first-oil-coat-2.jpg),
+  [`photos/woodworking/d09-planter-box-first-oil-coat-3.jpg`](photos/woodworking/d09-planter-box-first-oil-coat-3.jpg).
+
+## Day 10 — Planter box: second oil coat, assembly, sizing mistake
+
+- Applied the second oil coat to the planter box parts.
+- Assembled the planter box — at this point it looked done, hence the
+  "final" label on that batch of photos.
+- Problem encountered: the base's mounting frame measures 100 × 50 cm.
+  The box was designed at 99 × 49 cm to fit inside it with clearance, but
+  a measuring or assembly error resulted in a box measuring 99 × 53 cm —
+  4 cm too wide on the 50 cm dimension. Test-fitting the assembled box
+  against the mounting frame confirmed it did not fit.
+- Disassembled the affected side panels (removing screws) and trimmed
+  4 cm off the width, then oiled the freshly cut edges.
+- Result: the box has been trimmed to the correct width but has not been
+  reassembled yet — reassembly and a fit check against the mounting frame
+  are still ahead. Decision: no one is immune to measurement mistakes;
+  see [`lessons-learned.md`](lessons-learned.md).
+- Photos: [`photos/woodworking/d10-planter-box-second-oil-coat-1.jpg`](photos/woodworking/d10-planter-box-second-oil-coat-1.jpg),
+  [`photos/woodworking/d10-planter-box-second-oil-coat-2.jpg`](photos/woodworking/d10-planter-box-second-oil-coat-2.jpg),
+  [`photos/assembly/d10-planter-box-assembly-1.jpg`](photos/assembly/d10-planter-box-assembly-1.jpg),
+  [`photos/assembly/d10-planter-box-assembly-2.jpg`](photos/assembly/d10-planter-box-assembly-2.jpg),
+  [`photos/assembly/d10-planter-box-assembly-3.jpg`](photos/assembly/d10-planter-box-assembly-3.jpg),
+  [`photos/assembly/d10-planter-box-assembly-4.jpg`](photos/assembly/d10-planter-box-assembly-4.jpg),
+  [`photos/assembly/d10-planter-box-assembly-final-1.jpg`](photos/assembly/d10-planter-box-assembly-final-1.jpg),
+  [`photos/assembly/d10-planter-box-assembly-final-2.jpg`](photos/assembly/d10-planter-box-assembly-final-2.jpg),
+  [`photos/assembly/d10-planter-box-assembly-final-3.jpg`](photos/assembly/d10-planter-box-assembly-final-3.jpg),
+  [`photos/assembly/d10-planter-box-fail-too-wide.jpg`](photos/assembly/d10-planter-box-fail-too-wide.jpg),
+  [`photos/assembly/d10-planter-box-fixing-mistake-1.jpg`](photos/assembly/d10-planter-box-fixing-mistake-1.jpg),
+  [`photos/assembly/d10-planter-box-fixing-mistake-2.jpg`](photos/assembly/d10-planter-box-fixing-mistake-2.jpg),
+  [`photos/assembly/d10-planter-box-fixing-mistake-3.jpg`](photos/assembly/d10-planter-box-fixing-mistake-3.jpg).
+
 ## What's not logged yet
 
-The rest of the planter box build (in progress) and all
+Confirmation of whether the planter box now fits the base's mounting
+frame, the rest of the planter box build (liner, conduits), and all
 electronics/firmware work (not started) aren't in this timeline yet —
 they'll be added as dated (or day-numbered) entries once that work
 happens.

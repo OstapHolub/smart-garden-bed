@@ -7,11 +7,16 @@ that's part of the already-finished wooden base. As of this writing:
 
 - 🚧 Box construction is underway.
 - 🚧 The box bottom is being built.
-- ✅ All box parts measured, cut, and sanded through three grits — ready
-  for oiling and assembly (see
+- ✅ All box parts measured, cut, and sanded through three grits (see
   [`../docs/timeline.md`](../docs/timeline.md), Day 8).
-- 📋 Two coats of protective finish are planned for the box, matching the
-  base's process.
+- ✅ Two coats of oil finish applied and the box assembled (Day 9–10).
+- 🚧 Sizing mistake found and being corrected: the box was built 4 cm too
+  wide (99 × 53 cm against a 100 × 50 cm mounting frame, target was
+  99 × 49 cm) — confirmed by test-fitting against the base. The affected
+  side panels have been disassembled, trimmed by 4 cm, and the cut edges
+  oiled, but the box has not been reassembled or re-fitted yet — see
+  [`../docs/timeline.md`](../docs/timeline.md), Day 10, and
+  [`../docs/lessons-learned.md`](../docs/lessons-learned.md).
 - 🚧 Geotextile liner installation is planned.
 - 📋 Sensor conduit routing is being planned but not yet built — see
   [`sensor-conduits.md`](sensor-conduits.md).
