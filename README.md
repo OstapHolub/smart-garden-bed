@@ -4,7 +4,7 @@ A modular raised garden bed for a terrace, built around a permanent wooden
 base and a removable planter box, with an ESP32-C3 controller planned for
 soil/air monitoring and automatic drip irrigation.
 
-![Finished wooden base on the terrace](docs/photos/final/d07-final-result-1.jpg)
+![Wooden base with the removable planter box fitted in place](docs/photos/final/d11-planter-box-fitted-1.jpg)
 
 This is a personal engineering project that spans mechanical design (Fusion
 360), woodworking, electronics, and embedded firmware. It's also the first
