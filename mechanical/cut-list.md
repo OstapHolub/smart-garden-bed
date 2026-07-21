@@ -20,12 +20,12 @@ measured cut list.
 - Actual built base dimensions: not yet measured and recorded here.
 - The base's planter mounting frame measures **100 × 50 cm**. The planter
   box was designed at **99 × 49 cm** to fit inside it with clearance, but
-  a measuring or assembly error produced a box measuring **99 × 53 cm** —
-  4 cm too wide on the 50 cm dimension. Test-fitting against the mounting
-  frame confirmed it did not fit. The affected panels have been trimmed
-  by 4 cm and the cut edges oiled, but the box has not been reassembled
-  or re-fitted yet. See [`../docs/timeline.md`](../docs/timeline.md)
-  (Day 10) and [`../docs/lessons-learned.md`](../docs/lessons-learned.md).
+  a measuring or assembly error initially produced a box measuring
+  **99 × 53 cm** — 4 cm too wide on the 50 cm dimension. The affected
+  panels were trimmed by 4 cm, the cut edges oiled, and the box
+  reassembled; it has since been confirmed to fit the mounting frame. See
+  [`../docs/timeline.md`](../docs/timeline.md) (Day 10–11) and
+  [`../docs/lessons-learned.md`](../docs/lessons-learned.md).
 
 ## Known parts and dimensions
 

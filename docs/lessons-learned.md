@@ -44,11 +44,12 @@ measuring 99 × 53 cm — 4 cm too wide on the 50 cm dimension. At the time,
 the assembled box looked finished (see the "final" photos in
 [`timeline.md`](timeline.md), Day 10) — the mistake only surfaced once it
 was test-fitted against the mounting frame and confirmed not to fit. The
-affected panels have since been trimmed and the cut edges oiled, but the
-box hasn't been reassembled or re-fitted yet. Planning around a target
-dimension doesn't prevent execution mistakes — it's still worth a dry
-fit-check before assuming an assembled part matches the plan, not just
-before finishing it.
+affected panels were trimmed, the cut edges oiled, and the box
+reassembled — it now fits the mounting frame (see
+[`timeline.md`](timeline.md), Day 11). Planning around a target dimension
+doesn't prevent execution mistakes — it's still worth a dry fit-check
+before assuming an assembled part matches the plan, not just before
+finishing it.
 
 ## Design for service, not just for the first assembly
 

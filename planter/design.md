@@ -10,12 +10,11 @@ that's part of the already-finished wooden base. As of this writing:
 - ✅ All box parts measured, cut, and sanded through three grits (see
   [`../docs/timeline.md`](../docs/timeline.md), Day 8).
 - ✅ Two coats of oil finish applied and the box assembled (Day 9–10).
-- 🚧 Sizing mistake found and being corrected: the box was built 4 cm too
-  wide (99 × 53 cm against a 100 × 50 cm mounting frame, target was
-  99 × 49 cm) — confirmed by test-fitting against the base. The affected
-  side panels have been disassembled, trimmed by 4 cm, and the cut edges
-  oiled, but the box has not been reassembled or re-fitted yet — see
-  [`../docs/timeline.md`](../docs/timeline.md), Day 10, and
+- ✅ Sizing mistake found and fixed: the box was built 4 cm too wide
+  (99 × 53 cm against a 100 × 50 cm mounting frame, target was
+  99 × 49 cm) — confirmed by test-fitting against the base. Trimmed,
+  reassembled, and confirmed to fit the mounting frame — see
+  [`../docs/timeline.md`](../docs/timeline.md), Day 10–11, and
   [`../docs/lessons-learned.md`](../docs/lessons-learned.md).
 - 🚧 Geotextile liner installation is planned.
 - 📋 Sensor conduit routing is being planned but not yet built — see
@@ -34,7 +33,6 @@ that's part of the already-finished wooden base. As of this writing:
 
 ## Not yet finalized
 
-- Exact box dimensions (pending final fit-up against the base).
 - Bottom panel drainage approach (see
   [`drainage-and-liner.md`](drainage-and-liner.md)).
 - Finish product — likely the same oil used on the base, not yet

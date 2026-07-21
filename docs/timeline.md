@@ -118,10 +118,18 @@ weren't logged during the build.
   [`photos/assembly/d10-planter-box-fixing-mistake-2.jpg`](photos/assembly/d10-planter-box-fixing-mistake-2.jpg),
   [`photos/assembly/d10-planter-box-fixing-mistake-3.jpg`](photos/assembly/d10-planter-box-fixing-mistake-3.jpg).
 
+## Day 11 — Planter box: fit confirmed
+
+- Reassembled the trimmed planter box and set it into the base's mounting
+  frame.
+- Result: the box now fits the mounting frame. The Day 10 sizing mistake
+  is resolved.
+- Photos: [`photos/final/d11-planter-box-fitted-1.jpg`](photos/final/d11-planter-box-fitted-1.jpg),
+  [`photos/final/d11-planter-box-fitted-2.jpg`](photos/final/d11-planter-box-fitted-2.jpg).
+
 ## What's not logged yet
 
-Confirmation of whether the planter box now fits the base's mounting
-frame, the rest of the planter box build (liner, conduits), and all
-electronics/firmware work (not started) aren't in this timeline yet —
+The rest of the planter box build (bottom panel, liner, conduits) and
+all electronics/firmware work (not started) aren't in this timeline yet —
 they'll be added as dated (or day-numbered) entries once that work
 happens.
