@@ -51,7 +51,7 @@ that — the mechanical design has to plan for it.
 |---|---|
 | Wooden base (mechanical) | ✅ Completed |
 | Fusion 360 model of the base | ✅ Completed and added to this repo |
-| Removable planter box | 🚧 In progress |
+| Removable planter box | ✅ Completed and fitted to the base |
 | Drainage / geotextile liner | 🚧 In progress |
 | Sensor conduits in the box | 🚧 Planning |
 | Electronic components | ✅ Selected and ordered |

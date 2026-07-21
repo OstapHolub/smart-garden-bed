@@ -1,12 +1,12 @@
 # Planter Box Design
 
-## Status: in progress
+## Status: box completed, liner and conduits still pending
 
-The removable planter box is being built to sit in the mounting frame
-that's part of the already-finished wooden base. As of this writing:
+The removable planter box sits in the mounting frame that's part of the
+already-finished wooden base. As of this writing:
 
-- 🚧 Box construction is underway.
-- 🚧 The box bottom is being built.
+- ✅ Box construction (frame, bottom panel) completed and fitted to the
+  base's mounting frame.
 - ✅ All box parts measured, cut, and sanded through three grits (see
   [`../docs/timeline.md`](../docs/timeline.md), Day 8).
 - ✅ Two coats of oil finish applied and the box assembled (Day 9–10).
